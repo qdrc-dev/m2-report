@@ -8,6 +8,7 @@
 
 Nils Konradsson \
 Abdalla Nasreldin\
+Abdulsalam Alkalash\
 // (add your names here) \
 Luleå University of Technology
 
@@ -132,6 +133,13 @@ unethical means such as bribery or blackmail. Telia needs to ensure that it acts
 in accordance with SDG 16 (United Nations, n.d.-c) and always conducts its
 business in a just and correct manner.
 
+*Data privacy and cybersecurity.* Telia processes customers' personal data and
+provides communication services that people and organizations depend on. Data
+breaches can harm customers, while network disruptions can affect access to
+important services (Telia Company, 2026a). The company therefore needs to
+protect personal data, manage security risks and report incidents promptly to
+regulators when required (Post- och telestyrelsen, 2026).
+
 = Sustainability Work of the Company
 
 // ~1 000 words between this and the next heading
@@ -139,26 +147,26 @@ business in a just and correct manner.
 the Science Based Targets initiative has approved the target (Telia Company,
 2025a). By 2030 it wants to cut emissions from its own operations by 90% and
 emissions in its value chain (scope 3) by at least 50%. Compared with 2018, it
-has cut 74% and 35% so far (Telia Company, 2026). The electricity it uses is
-renewable, which Telia verifies with Guarantees of Origin (Telia Company, 2026).
+has cut 74% and 35% so far (Telia Company, 2026b). The electricity it uses is
+renewable, which Telia verifies with Guarantees of Origin (Telia Company, 2026b).
 The supply chain is the bigger problem. The consultancy Carbon Trust, which
 helps Telia measure these emissions, says scope 3 makes up 99% of its footprint
 (Carbon Trust, 2024), so Telia works with the suppliers behind about 65% of them
-to find more cuts (Telia Company, 2026). CDP gave Telia an A score in 2025,
+to find more cuts (Telia Company, 2026b). CDP gave Telia an A score in 2025,
 which puts it in the top 4% of the companies assessed (Telia Company, 2025b).
 Telia is an active participant in the UN Global Compact (United Nations Global
 Compact, n.d.), and its climate plan says all its markets are covered by the ISO
-14001 environmental management standard (Telia Company, 2026). Still, the plan
-has not been validated by an external party (Telia Company, 2026), and critics
+14001 environmental management standard (Telia Company, 2026b). Still, the plan
+has not been validated by an external party (Telia Company, 2026b), and critics
 argue that buying certificates like Guarantees of Origin does not always lead to
 real emission cuts (European Commission, 2025).
 
 *E-waste.* Telia wants to reuse or recycle all waste from its operations by
 2030, apart from some legacy waste such as treated wooden poles, and the share
-was 95% in 2025 (Telia Company, 2026). It also sells refurbished phones, which
+was 95% in 2025 (Telia Company, 2026b). It also sells refurbished phones, which
 were 4% of its smartphone sales in 2024 (Telia Company, 2025a). For old phones
 from customers the take-back rate was 13% in 2025, while Telia's target is 20%
-by 2028 (Telia Company, 2026). The industry association GSMA (n.d.) wants
+by 2028 (Telia Company, 2026b). The industry association GSMA (n.d.) wants
 operators to collect used phones equal to at least 20% of the new ones they
 distribute by 2030, and to make sure all of them are repaired, reused or
 recycled in a controlled way. Telia's target fits this, but it is not there yet.
@@ -167,9 +175,58 @@ although the two companies may not measure it the same way. Telia's waste target
 also only covers its own operations, so most e-waste depends on whether
 customers return their phones.
 
+*Data privacy and cybersecurity.* Telia considers privacy when developing
+products and IT systems, an approach known as data protection by design. It
+carries out risk assessments to support compliance with the GDPR. Telia reports
+that it holds ISO 27001:2022 certification and undergoes annual external audits.
+Its Global Security Operations Center monitors and responds to cybersecurity
+incidents around the clock. According to Telia's brand tracker, customers ranked
+the company first or second for perceived privacy in four of its five markets
+in 2025 (Telia Company, 2026a). This measures customer perceptions; assessing
+how well data is protected also requires examining how the company handles
+incidents.
+
 - Talk about the bribery scandal thing
 
 = Foreign Interests
+
+Despite the positive CDP rating mentioned earlier, the World Benchmarking
+Alliance (n.d.-b) gives Telia a D in its ACT Core assessment. The organization
+recognizes that Telia has sufficiently detailed climate transition planning,
+but finds insufficient evidence that it influences suppliers and investors to
+reduce upstream emissions. The assessments use different criteria, so their
+ratings cannot be compared directly. WBA's findings are particularly relevant
+given the large share of Telia's carbon footprint that comes from its supply
+chain.
+
+In 2016, Swedwatch criticized Telia and three other Swedish mobile operators for
+encouraging customers to replace smartphones frequently and providing limited
+information about collection and the eventual fate of old devices. It also
+found that the companies lacked reliable systems to ensure that phones resold on
+secondary markets were eventually recycled properly (Swedwatch, 2016). The
+report is now old, but its criticism remains relevant when considering Telia's
+current take-back targets. Selling refurbished phones is consistent with
+Swedwatch's emphasis on reuse. Encouraging customers to use existing phones for
+longer could also reduce the need to manufacture new ones.
+
+Regulatory authorities are another group of stakeholders with an interest in
+how Telia conducts its business. In 2017, Telia admitted participating in a
+bribery conspiracy involving payments of more than USD 331 million to an Uzbek
+official. The international settlement amounted to more than USD 965 million in
+criminal and regulatory penalties (U.S. Department of Justice, 2017). In April
+2026, the Swedish Post and Telecom Authority (PTS) imposed a sanction of SEK
+100,000 on Telia for reporting a privacy incident from January 2025 too late.
+PTS also noted that Telia had reviewed its incident-handling procedures
+(Post- och telestyrelsen, 2026). The cases concern different obligations, but
+the more recent case illustrates the importance of reporting privacy incidents
+promptly.
+
+The World Benchmarking Alliance (n.d.-a) ranks Telia tenth among 200 companies
+in its Digital Inclusion Benchmark. There is, however, a considerable
+difference between its score for access (22.2/100) and its score for skills
+(86.1/100). Telia scores higher on skills than access under the benchmark's
+criteria, although these scores alone do not measure the actual outcomes for
+individual users.
 
 = Analysis
 
@@ -198,13 +255,19 @@ Kamiya, G., & Bertoldi, P. (2024). _Energy consumption in data centres and broad
 
 Lee, P. (2021). _Making smartphones sustainable: Live long and greener_. Deloitte. https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2022/environmental-impact-smartphones.html
 
+Post- och telestyrelsen. (2026, April 15). _Telia ska betala sanktionsavgift för sen incidentrapport_. https://www.pts.se/nyheter-och-pressmeddelanden/telia-ska-betala-sanktionsavgift-for-sen-incidentrapport/
+
+Swedwatch. (2016, April 26). _Kortsiktigt kretslopp_. https://swedwatch.org/sv/teman/kortsiktigt-kretslopp/
+
 Tele2. (n.d.). _Environment_. https://www.tele2.com/sustainability/our-focus-areas/environment
 
 Telia Company. (2025a). _Climate transition plan_ [Report]. https://www.teliacompany.com/assets/u5c1v3pt22v8/5FFHI8T65YApr2BWJC8vug/115ef07c3f29ea8135b2a29fffd007b3/Telia_climate_transition_plan_March_2025.pdf
 
 Telia Company. (2025b, December 11). _Telia achieves CDP 'A' score for the first time_ [Press release]. https://news.cision.com/telia-company/r/telia-achieves-cdp--a--score-for-the-first-time,c4280485
 
-Telia Company. (2026). _Climate transition plan_ [Report]. https://www.teliacompany.com/assets/u5c1v3pt22v8/rfbTTHL14eswLdpbHyLVH/d1d133d09b48a2da633a5ee1ac16039d/Transition_Plan_2025.pdf
+Telia Company. (2026a). _Annual report 2025_. https://www.teliacompany.com/downloads/u5c1v3pt22v8/5rdR72LuLgRQ5Ge4bOprhJ/1d446df8ad766c19090613b162b24952/Telia_Annual_report_2025.pdf
+
+Telia Company. (2026b). _Climate transition plan_ [Report]. https://www.teliacompany.com/assets/u5c1v3pt22v8/rfbTTHL14eswLdpbHyLVH/d1d133d09b48a2da633a5ee1ac16039d/Transition_Plan_2025.pdf
 
 United Nations. (n.d.-a). _Goal 7: Ensure access to affordable, reliable, sustainable and modern energy for all_. https://sdgs.un.org/goals/goal7
 
@@ -213,3 +276,9 @@ United Nations. (n.d.-b). _Goal 12: Ensure sustainable consumption and productio
 United Nations. (n.d.-c). _Goal 16: Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels_. https://sdgs.un.org/goals/goal16
 
 United Nations Global Compact. (n.d.). _Telia Company_ [Participant profile]. https://unglobalcompact.org/what-is-gc/participants/18662-Telia-Company
+
+U.S. Department of Justice. (2017, September 21). _Global telecommunications company and its subsidiary to pay more than \$965 million in penalties in massive bribery scheme involving Uzbek official_. https://www.justice.gov/usao-sdny/pr/global-telecommunications-company-and-its-subsidiary-pay-more-965-million-penalties
+
+World Benchmarking Alliance. (n.d.-a). _Digital Inclusion Benchmark_. https://www.worldbenchmarkingalliance.org/benchmark/digital-inclusion-benchmark
+
+World Benchmarking Alliance. (n.d.-b). _Telia: ACT Core_. https://www.worldbenchmarkingalliance.org/company/telia?benchmark_id=ACO&order_mas=desc&sort_mas=company_name
