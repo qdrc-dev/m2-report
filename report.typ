@@ -146,30 +146,30 @@ regulators when required (Post- och telestyrelsen, 2026).
 = Sustainability Work of the Company
 
 // ~1 000 words between this and the next heading
-*Climate.* Telia aims for net-zero emissions across its value chain by 2040, and
-the Science Based Targets initiative has approved the target (Telia Company,
+Telia aims for net-zero emissions across its value chain by 2040, and the
+Science Based Targets initiative has approved the target (Telia Company,
 2025a). By 2030 it wants to cut emissions from its own operations by 90% and
 emissions in its value chain (scope 3) by at least 50%. Compared with 2018, it
 has cut 74% and 35% so far (Telia Company, 2026b). The electricity it uses is
-renewable, which Telia verifies with Guarantees of Origin (Telia Company, 2026b).
-The supply chain is the bigger problem. The consultancy Carbon Trust, which
-helps Telia measure these emissions, says scope 3 makes up 99% of its footprint
-(Carbon Trust, 2024), so Telia works with the suppliers behind about 65% of them
-to find more cuts (Telia Company, 2026b). CDP gave Telia an A score in 2025,
-which puts it in the top 4% of the companies assessed (Telia Company, 2025b).
-Telia is an active participant in the UN Global Compact (United Nations Global
-Compact, n.d.), and its climate plan says all its markets are covered by the ISO
-14001 environmental management standard (Telia Company, 2026b). Still, the plan
-has not been validated by an external party (Telia Company, 2026b), and critics
-argue that buying certificates like Guarantees of Origin does not always lead to
-real emission cuts (European Commission, 2025).
+renewable, which Telia verifies with Guarantees of Origin (Telia Company,
+2026b).  The supply chain is the bigger problem. The consultancy Carbon Trust,
+which helps Telia measure these emissions, says scope 3 makes up 99% of its
+footprint (Carbon Trust, 2024), so Telia works with the suppliers behind about
+65% of them to find more cuts (Telia Company, 2026b). CDP gave Telia an A score
+in 2025, which puts it in the top 4% of the companies assessed (Telia Company,
+2025b).  Telia is an active participant in the UN Global Compact (United Nations
+Global Compact, n.d.), and its climate plan says all its markets are covered by
+the ISO 14001 environmental management standard (Telia Company, 2026b). Still,
+the plan has not been validated by an external party (Telia Company, 2026b), and
+critics argue that buying certificates like Guarantees of Origin does not always
+lead to real emission cuts (European Commission, 2025).
 
-*E-waste.* Telia wants to reuse or recycle all waste from its operations by
-2030, apart from some legacy waste such as treated wooden poles, and the share
-was 95% in 2025 (Telia Company, 2026b). It also sells refurbished phones, which
-were 4% of its smartphone sales in 2024 (Telia Company, 2025a). For old phones
-from customers the take-back rate was 13% in 2025, while Telia's target is 20%
-by 2028 (Telia Company, 2026b). The industry association GSMA (n.d.) wants
+Telia wants to reuse or recycle all waste from its operations by 2030, apart
+from some legacy waste such as treated wooden poles, and the share was 95% in
+2025 (Telia Company, 2026b). It also sells refurbished phones, which were 4% of
+its smartphone sales in 2024 (Telia Company, 2025a). For old phones from
+customers the take-back rate was 13% in 2025, while Telia's target is 20% by
+2028 (Telia Company, 2026b). The industry association GSMA (n.d.) wants
 operators to collect used phones equal to at least 20% of the new ones they
 distribute by 2030, and to make sure all of them are repaired, reused or
 recycled in a controlled way. Telia's target fits this, but it is not there yet.
@@ -178,16 +178,15 @@ although the two companies may not measure it the same way. Telia's waste target
 also only covers its own operations, so most e-waste depends on whether
 customers return their phones.
 
-*Data privacy and cybersecurity.* Telia considers privacy when developing
-products and IT systems, an approach known as data protection by design. It
-carries out risk assessments to support compliance with the GDPR. Telia reports
-that it holds ISO 27001:2022 certification and undergoes annual external audits.
-Its Global Security Operations Center monitors and responds to cybersecurity
-incidents around the clock. According to Telia's brand tracker, customers ranked
-the company first or second for perceived privacy in four of its five markets
-in 2025 (Telia Company, 2026a). This measures customer perceptions; assessing
-how well data is protected also requires examining how the company handles
-incidents.
+Telia considers privacy when developing products and IT systems, an approach
+known as data protection by design. It carries out risk assessments to support
+compliance with the GDPR. Telia reports that it holds ISO 27001:2022
+certification and undergoes annual external audits.  Its Global Security
+Operations Center monitors and responds to cybersecurity incidents around the
+clock. According to Telia's brand tracker, customers ranked the company first or
+second for perceived privacy in four of its five markets in 2025 (Telia Company,
+2026a). This measures customer perceptions; assessing how well data is protected
+also requires examining how the company handles incidents.
 
 #pagebreak()
 
@@ -235,9 +234,53 @@ individual users.
 
 = Analysis
 
-// ~500 words between this and next
+// ~500 words
 
-= Discussion and Conclusions
+Telia's goals for sustainable development largely appear to align with the
+fields identified within this report as potentially problematic areas. The
+company clearly takes the global sustainability goals and regulations seriously,
+at least in terms of what it is legally required to comply with. However, there
+are also many areas where the company may not be doing enough, into which it
+must invest resources in order to be considered sustainable.
+
+The company is on track to meeting the "net-zero emissions by 2040" target it
+has set for itself. As of 2026, its ongoing work to eliminate as many emissions
+as possible from both its own operations and supply chain, along with its use of
+renewable electricity, place it quite highly relative to other companies in
+terms of reducing carbon emissions. This is made evident in particular by the
+high rating of A it received from CDP in 2025. However, the lack of validation
+by any external party of its future climate plan significantly weakens the
+company's credibility in this regard. Reasonably, a company with a sound plan
+for its future sustainability efforts should be eager to have it reviewed by
+third parties in order to show investors and customers that the company is
+committed to its goals. That Telia has not done this suggests that it is
+uncertain about its climate plan in some way, which does not bode well for its
+commitment to the plan.
+
+In terms of addressing the generation of e-waste, Telia has quite a bit of space
+for improvement. Per its own reports, the vast majority of its smartphone sales
+figures consist of new phones rather than refurbished ones, which is problematic
+in terms of the raw materials required to produce the former. It can be argued
+that Telia's business model of selling smartphones together with data plan
+subscriptions is actively bad for the environment as it encourages customers to
+replace their phones with new ones sooner than they might actually need to,
+which unnecessarily produces waste and depletes Earth's natural resources -
+especially since the company only aims to reclaim and recycle a fifth of its
+distributed phones by 2028. Telia cannot be considered a sustainably operating
+company with this in mind, and the company should be considering sweeping
+changes to its business model to reduce waste production.
+
+// TODO when a final point is added, write about it
+
+Overall, Telia has done some good work to meet global sustainability goals, but
+there are still areas which could serve to be improved. One of the largest
+issues is somewhat inherent to the mobile operator business model of selling
+phones to go with data subscriptions. Telia has been accused of indirectly
+creating large amounts of e-waste as a result of these subscriptions causing
+customers to replace phones more often than necessary, while not sufficiently
+encouraging controlled reuse or recycling of old devices. The company needs to
+focus its resources on this problem as soon as possible to limit the harm to our
+planet which it causes.
 
 #pagebreak()
 
