@@ -30,7 +30,7 @@ in Solna, Sweden with around 14 800 employees and operations in many other
 countries, in particular Finland and Norway. On its corporate website, it
 describes itself thus:
 
-#quote(block: true, attribution: [Telia [1]])[
+#quote(block: true, attribution: [Telia Company (n.d.)])[
   We’re a leading telecommunications operator in the Nordic and Baltic
   regions. Every day, we deliver world-class connectivity and communications
   services to millions of customers through our sustainable and secure
@@ -186,8 +186,6 @@ in 2025 (Telia Company, 2026a). This measures customer perceptions; assessing
 how well data is protected also requires examining how the company handles
 incidents.
 
-- Talk about the bribery scandal thing
-
 = Foreign Interests
 
 Despite the positive CDP rating mentioned earlier, the World Benchmarking
@@ -237,9 +235,7 @@ individual users.
 = References
 
 // Remember to add references to any source you take information from!!!
-// TODO find a better solution than manually enumerating references
-#set enum(numbering: "[1]")
-+ This is Telia (teliacompany.com, Telia Company AB) <telia_desc>
+Telia Company. (n.d.) _This is Telia_. https://www.teliacompany.com/en/category/this-is-telia
 
 Carbon Trust. (2024, May 20). _Delving into Telia's supply chain emissions_. https://www.carbontrust.com/our-work-and-impact/impact-stories/delving-into-telias-supply-chain-emissions
 
