@@ -1,6 +1,7 @@
 #set page(
-  paper: "a4",
-  margin: 2.5cm,
+    paper: "a4",
+    margin: 2.5cm,
+    numbering: "1"
 )
 
 // TODO figure out why this doesn't work on Macs
@@ -140,6 +141,8 @@ important services (Telia Company, 2026a). The company therefore needs to
 protect personal data, manage security risks and report incidents promptly to
 regulators when required (Post- och telestyrelsen, 2026).
 
+#pagebreak()
+
 = Sustainability Work of the Company
 
 // ~1 000 words between this and the next heading
@@ -186,6 +189,8 @@ in 2025 (Telia Company, 2026a). This measures customer perceptions; assessing
 how well data is protected also requires examining how the company handles
 incidents.
 
+#pagebreak()
+
 = Foreign Interests
 
 Despite the positive CDP rating mentioned earlier, the World Benchmarking
@@ -226,11 +231,15 @@ difference between its score for access (22.2/100) and its score for skills
 criteria, although these scores alone do not measure the actual outcomes for
 individual users.
 
+#pagebreak()
+
 = Analysis
 
 // ~500 words between this and next
 
 = Discussion and Conclusions
+
+#pagebreak()
 
 = References
 
